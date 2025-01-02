@@ -5,6 +5,9 @@ cat <<EOL > README.md
 This project uses **Google Generative AI** (Gemini 1.5) to create a chatbot-like experience that processes uploaded files and answers user queries based on the file's content.
 
 ---
+## Glimpse
+![Platform Screenshot](https://drive.google.com/uc?id=1TBqN5Mm6AnD5HbwBBuz2VHN4Xqad5oYN)
+
 
 ## Features
 - **File Upload and Processing**: Allows users to upload files (PDF) and ask questions based on the content.
