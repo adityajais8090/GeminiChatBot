@@ -1,5 +1,4 @@
 
-cat <<EOL > README.md
 # Gemini Chatbot Project 🤖
 
 This project uses **Google Generative AI** (Gemini 1.5) to create a chatbot-like experience that processes uploaded files and answers user queries based on the file's content.
