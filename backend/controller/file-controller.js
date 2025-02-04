@@ -18,6 +18,7 @@ const model = genAI.getGenerativeModel({
 
 
 // Generate a prompt based on file type
+//add another token prev gemini get expire
 const getPromptForFileType = () => {
   return `
     You are provided with an uploaded file. Your task is to:
