@@ -1,5 +1,6 @@
 import axios from 'axios';
 
+//shift it to the env once update
 const API_URL = 'http://localhost:8000';
 
 export const uploadFile = async (data) => {
